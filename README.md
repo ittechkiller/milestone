@@ -1,16 +1,12 @@
+# jsoft1222
+
 # USDT/BEP20 
-## 0x7b0155cb077e8e510dc89bdd6865213abc7e9186
-## 0x7B0155cb077E8e510Dc89Bdd6865213aBC7e9186
-
-https://bscscan.com/address/0x7b0155cb077e8e510dc89bdd6865213abc7e9186
-
-# USDT / TRC20
-## TXR5GWxwcpKmPwuKBwoMA7boSSCyKmRcdz
-## TXR5GWxwcpKmPwuKBwoMA7boSSCyKmRcdz
-
-https://tronscan.org/#/address/TXR5GWxwcpKmPwuKBwoMA7boSSCyKmRcdz/
+## 0x766DC9553D4D26a3253Bf11A49Df6734ce487A23
+#### 0x766DC9553D4D26a3253Bf11A49Df6734ce487A23
 
 
 # USDT / TRC20
-## milestone zero
-https://tronscan.org/#/address/TRi2GXSnYCcpENoSsGAE6aLYdW3yE3TkjP
+## TLmQFnsgQ4kjfFmhoB7MoavTqYbhjngT2A
+#### TLmQFnsgQ4kjfFmhoB7MoavTqYbhjngT2A
+
+
