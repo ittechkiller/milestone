@@ -1,4 +1,5 @@
-# jsoft1222
+# jsoft1222 - JSN
+## send here 1k, I'll pay $. thanks
 
 # USDT/ERC20
 ## 0x766DC9553D4D26a3253Bf11A49Df6734ce487A23
